@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  openldap:
+  - apiVersion: v1
+    appVersion: 2.4.48
+    created: "2020-01-30T08:17:45.4296118+01:00"
+    description: Community developed LDAP software
+    digest: d692bb0ca86bde6b67c50af777873e1b1892ae3cfd80d5265c70c66ca86feb87
+    engine: gotpl
+    home: https://www.openldap.org
+    icon: http://www.openldap.org/images/headers/LDAPworm.gif
+    keywords:
+    - ldap
+    - openldap
+    maintainers:
+    - email: elevisse@itsgroup.com
+      name: Etienne LEVISSE
+    name: openldap
+    sources:
+    - https://github.com/grundtinfo/charts
+    urls:
+    - https://github.com/grundtinfo/charts/openldap-1.2.3.tgz
+    version: 1.2.3
+generated: "2020-01-30T08:17:45.4276584+01:00"
